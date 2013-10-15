@@ -1,0 +1,263 @@
+C:\sys.env\oorexx
+C:\sys.env\oorexx\rexx.exe
+C:\sys.env\oorexx\rexx.img
+C:\sys.env\oorexx\rexxc.exe
+C:\sys.env\oorexx\rxsubcom.exe
+C:\sys.env\oorexx\rxqueue.exe
+C:\sys.env\oorexx\rxapi.exe
+C:\sys.env\oorexx\rexxhide.exe
+C:\sys.env\oorexx\rexxpaws.exe
+C:\sys.env\oorexx\rexx.dll
+C:\sys.env\oorexx\rexxapi.dll
+C:\sys.env\oorexx\rexxutil.dll
+C:\sys.env\oorexx\rxmath.dll
+C:\sys.env\oorexx\rxsock.dll
+C:\sys.env\oorexx\rxregexp.dll
+C:\sys.env\oorexx\rxwinsys.dll
+C:\sys.env\oorexx\oodialog.dll
+C:\sys.env\oorexx\orexxole.dll
+C:\sys.env\oorexx\hostemu.dll
+C:\sys.env\oorexx\winsystm.cls
+C:\sys.env\oorexx\socket.cls
+C:\sys.env\oorexx\streamsocket.cls
+C:\sys.env\oorexx\mime.cls
+C:\sys.env\oorexx\smtp.cls
+C:\sys.env\oorexx\rxregexp.cls
+C:\sys.env\oorexx\rxftp.cls
+C:\sys.env\oorexx\csvStream.cls
+C:\sys.env\oorexx\orexxole.cls
+C:\sys.env\oorexx\oodialog.cls
+C:\sys.env\oorexx\oodwin32.cls
+C:\sys.env\oorexx\oodplain.cls
+C:\sys.env\oorexx\rexxtry.rex
+C:\sys.env\oorexx\ooRexxTry.rex
+C:\sys.env\oorexx\rexx.ico
+C:\sys.env\oorexx\CPLv1.0.txt
+C:\sys.env\oorexx\doc
+C:\sys.env\oorexx\doc\readme.pdf
+C:\sys.env\oorexx\doc\CHANGES.txt
+C:\sys.env\oorexx\doc\ReleaseNotes.txt
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Try Rexx.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Try Rexx (GUI).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx README.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx CHANGES.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx ReleaseNotes.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Uninstall ooRexx.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\LICENSE.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Home Page.url
+C:\sys.env\oorexx\uninstall.exe
+C:\sys.env\oorexx\samples
+C:\sys.env\oorexx\samples\0ReadMe.first
+C:\sys.env\oorexx\samples\rexxcps.rex
+C:\sys.env\oorexx\samples\ccreply.rex
+C:\sys.env\oorexx\samples\complex.rex
+C:\sys.env\oorexx\samples\factor.rex
+C:\sys.env\oorexx\samples\greply.rex
+C:\sys.env\oorexx\samples\guess.rex
+C:\sys.env\oorexx\samples\ktguard.rex
+C:\sys.env\oorexx\samples\makestring.rex
+C:\sys.env\oorexx\samples\month.rex
+C:\sys.env\oorexx\samples\philfork.rex
+C:\sys.env\oorexx\samples\pipe.rex
+C:\sys.env\oorexx\samples\properties.rex
+C:\sys.env\oorexx\samples\qdate.rex
+C:\sys.env\oorexx\samples\qtime.rex
+C:\sys.env\oorexx\samples\scclient.rex
+C:\sys.env\oorexx\samples\scserver.rex
+C:\sys.env\oorexx\samples\semcls.rex
+C:\sys.env\oorexx\samples\sfclient.rex
+C:\sys.env\oorexx\samples\sfserver.rex
+C:\sys.env\oorexx\samples\stack.rex
+C:\sys.env\oorexx\samples\usecomp.rex
+C:\sys.env\oorexx\samples\usepipe.rex
+C:\sys.env\oorexx\samples\drives.rex
+C:\sys.env\oorexx\samples\misc
+C:\sys.env\oorexx\samples\misc\fileDrop.empty
+C:\sys.env\oorexx\samples\misc\fileDrop.input
+C:\sys.env\oorexx\samples\misc\fileDrop.readMe
+C:\sys.env\oorexx\samples\misc\fileDrop.rex
+C:\sys.env\oorexx\samples\ole
+C:\sys.env\oorexx\samples\ole
+C:\sys.env\oorexx\samples\ole\ReadMe.first
+C:\sys.env\oorexx\samples\ole\adsi
+C:\sys.env\oorexx\samples\ole\adsi\*.rex
+C:\sys.env\oorexx\samples\ole\apps
+C:\sys.env\oorexx\samples\ole\apps\MSAccessDemo.rex
+C:\sys.env\oorexx\samples\ole\apps\oleUtils.frm
+C:\sys.env\oorexx\samples\ole\apps\samp01.rex
+C:\sys.env\oorexx\samples\ole\apps\samp02.rex
+C:\sys.env\oorexx\samples\ole\apps\samp03.rex
+C:\sys.env\oorexx\samples\ole\apps\samp04.rex
+C:\sys.env\oorexx\samples\ole\apps\samp05.rex
+C:\sys.env\oorexx\samples\ole\apps\samp06.mwp
+C:\sys.env\oorexx\samples\ole\apps\samp06.rex
+C:\sys.env\oorexx\samples\ole\apps\samp07.rex
+C:\sys.env\oorexx\samples\ole\apps\samp08.rex
+C:\sys.env\oorexx\samples\ole\apps\samp09.rex
+C:\sys.env\oorexx\samples\ole\apps\samp10.rex
+C:\sys.env\oorexx\samples\ole\apps\samp11.rex
+C:\sys.env\oorexx\samples\ole\apps\samp12.rex
+C:\sys.env\oorexx\samples\ole\apps\samp13.rex
+C:\sys.env\oorexx\samples\ole\apps\samp14.rex
+C:\sys.env\oorexx\samples\ole\methinfo
+C:\sys.env\oorexx\samples\ole\methinfo\*.rex
+C:\sys.env\oorexx\samples\ole\methinfo\*.cls
+C:\sys.env\oorexx\samples\ole\wmi
+C:\sys.env\oorexx\samples\ole\wmi\*.rex
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\RexxCPS.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\Quick Date.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\Quick Time.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\Display Event Log.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\Display Drive Info.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\Windows Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\MS Access.lnk
+C:\sys.env\oorexx\samples\oodialog
+C:\sys.env\oorexx\samples\oodialog\oodialog.ico
+C:\sys.env\oorexx\samples\oodialog\*.rex
+C:\sys.env\oorexx\samples\oodialog\*.inp
+C:\sys.env\oorexx\samples\oodialog\*.ico
+C:\sys.env\oorexx\samples\oodialog\bmp
+C:\sys.env\oorexx\samples\oodialog\bmp\*.bmp
+C:\sys.env\oorexx\samples\oodialog\examples
+C:\sys.env\oorexx\samples\oodialog\examples\*.rex
+C:\sys.env\oorexx\samples\oodialog\examples\*.txt
+C:\sys.env\oorexx\samples\oodialog\examples\resources
+C:\sys.env\oorexx\samples\oodialog\examples\resources\*.bmp
+C:\sys.env\oorexx\samples\oodialog\examples\resources\*.h
+C:\sys.env\oorexx\samples\oodialog\examples\resources\*.rc
+C:\sys.env\oorexx\samples\oodialog\oleinfo
+C:\sys.env\oorexx\samples\oodialog\oleinfo\*.rex
+C:\sys.env\oorexx\samples\oodialog\oleinfo\*.txt
+C:\sys.env\oorexx\samples\oodialog\oleinfo\*.bmp
+C:\sys.env\oorexx\samples\oodialog\oleinfo\*.rc
+C:\sys.env\oorexx\samples\oodialog\ooRexxTry
+C:\sys.env\oorexx\samples\oodialog\ooRexxTry\ooRexxTry.rex
+C:\sys.env\oorexx\samples\oodialog\ooRexxTry\doc
+C:\sys.env\oorexx\samples\oodialog\ooRexxTry\doc\ooRexxTry.pdf
+C:\sys.env\oorexx\samples\oodialog\rc
+C:\sys.env\oorexx\samples\oodialog\rc\*.rc
+C:\sys.env\oorexx\samples\oodialog\res
+C:\sys.env\oorexx\samples\oodialog\res\*.res
+C:\sys.env\oorexx\samples\oodialog\res\*.dll
+C:\sys.env\oorexx\samples\oodialog\sysinfo
+C:\sys.env\oorexx\samples\oodialog\sysinfo\*.rex
+C:\sys.env\oorexx\samples\oodialog\sysinfo\*.rc
+C:\sys.env\oorexx\samples\oodialog\source
+C:\sys.env\oorexx\samples\oodialog\source\oodialog.cls
+C:\sys.env\oorexx\samples\oodialog\source\oodwin32.cls
+C:\sys.env\oorexx\samples\oodialog\source\oodplain.cls
+C:\sys.env\oorexx\samples\oodialog\source\advctrl.cls
+C:\sys.env\oorexx\samples\oodialog\source\anibuttn.cls
+C:\sys.env\oorexx\samples\oodialog\source\basedlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\build.rex
+C:\sys.env\oorexx\samples\oodialog\source\catdlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\dialog.cls
+C:\sys.env\oorexx\samples\oodialog\source\dlgext.cls
+C:\sys.env\oorexx\samples\oodialog\source\dyndlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\makedll.bat
+C:\sys.env\oorexx\samples\oodialog\source\msgext.cls
+C:\sys.env\oorexx\samples\oodialog\source\oodutils.cls
+C:\sys.env\oorexx\samples\oodialog\source\plbdlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\pludlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\propsht.cls
+C:\sys.env\oorexx\samples\oodialog\source\resdlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\stddlg.cls
+C:\sys.env\oorexx\samples\oodialog\source\stdext.cls
+C:\sys.env\oorexx\samples\oodialog\source\userdlg.cls
+C:\sys.env\oorexx\samples\oodialog\tutorial
+C:\sys.env\oorexx\samples\oodialog\tutorial\*.rex
+C:\sys.env\oorexx\samples\oodialog\tutorial\*.bmp
+C:\sys.env\oorexx\samples\oodialog\tutorial\*.rc
+C:\sys.env\oorexx\samples\oodialog\wav
+C:\sys.env\oorexx\samples\oodialog\wav\*.wav
+C:\sys.env\oorexx\samples\oodialog\wav\*.txt
+C:\sys.env\oorexx\samples\oodialog\winsystem
+C:\sys.env\oorexx\samples\oodialog\winsystem\*.rex
+C:\sys.env\oorexx\samples\oodialog\winsystem\*.rc
+C:\sys.env\oorexx\samples\oodialog\winsystem\*.h
+C:\sys.env\oorexx\samples\oodialog\winsystem\*.frm
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\ooDialog
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\ooDialog\Samples.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\ooDialog\Calculator.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\ooDialog\Change Editor.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\ooDialog\FTYPE Changer.lnk
+C:\sys.env\oorexx\api
+C:\sys.env\oorexx\api\rexx.lib
+C:\sys.env\oorexx\api\rexxapi.lib
+C:\sys.env\oorexx\api\oorexxapi.h
+C:\sys.env\oorexx\api\rexx.h
+C:\sys.env\oorexx\api\oorexxerrors.h
+C:\sys.env\oorexx\api\rexxapidefs.h
+C:\sys.env\oorexx\api\rexxapitypes.h
+C:\sys.env\oorexx\api\rexxplatformapis.h
+C:\sys.env\oorexx\api\rexxplatformdefs.h
+C:\sys.env\oorexx\samples\api
+C:\sys.env\oorexx\samples\api\readme.txt
+C:\sys.env\oorexx\samples\api\callrxnt
+C:\sys.env\oorexx\samples\api\callrxnt\backward.fnc
+C:\sys.env\oorexx\samples\api\callrxnt\callrxnt.c
+C:\sys.env\oorexx\samples\api\callrxnt\callrxnt.ico
+C:\sys.env\oorexx\samples\api\callrxnt\callrxnt.mak
+C:\sys.env\oorexx\samples\api\callrxnt\callrxnt.exe
+C:\sys.env\oorexx\samples\api\callrxwn
+C:\sys.env\oorexx\samples\api\callrxwn\backward.fnc
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.c
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.h
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.ico
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.mak
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.exe
+C:\sys.env\oorexx\samples\api\callrxwn\callrxwn.rc
+C:\sys.env\oorexx\samples\api\rexxexit
+C:\sys.env\oorexx\samples\api\rexxexit\rexxexit.c
+C:\sys.env\oorexx\samples\api\rexxexit\rexxexit.ico
+C:\sys.env\oorexx\samples\api\rexxexit\rexxexit.mak
+C:\sys.env\oorexx\samples\api\rexxexit\rexxexit.exe
+C:\sys.env\oorexx\samples\api\rexxexit\testRexxExit
+C:\sys.env\oorexx\samples\api\wpipe
+C:\sys.env\oorexx\samples\api\wpipe\readme.txt
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1\rexxapi1.c
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1\rexxapi1.def
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1\apitest1.rex
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1\rexxapi1.mak
+C:\sys.env\oorexx\samples\api\wpipe\wpipe1\rexxapi1.dll
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2\rexxapi2.c
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2\rexxapi2.def
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2\apitest2.rex
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2\rexxapi2.mak
+C:\sys.env\oorexx\samples\api\wpipe\wpipe2\rexxapi2.dll
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3\rexxapi3.c
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3\rexxapi3.def
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3\apitest3.rex
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3\rexxapi3.mak
+C:\sys.env\oorexx\samples\api\wpipe\wpipe3\rexxapi3.dll
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\API
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\API\Call ooRexx in a Console.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\API\Call ooRexx in a Window.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\ooRexx Samples\API\Call ooRexx with Exits.lnk
+C:\sys.env\oorexx\doc
+C:\sys.env\oorexx\doc\rexxpg.pdf
+C:\sys.env\oorexx\doc\rexxref.pdf
+C:\sys.env\oorexx\doc\rxmath.pdf
+C:\sys.env\oorexx\doc\rxsock.pdf
+C:\sys.env\oorexx\doc\rxftp.pdf
+C:\sys.env\oorexx\doc\oodialog.pdf
+C:\sys.env\oorexx\doc\rexxextensions.pdf
+C:\sys.env\oorexx\doc\unixextensions.pdf
+C:\sys.env\oorexx\doc\winextensions.pdf
+C:\sys.env\oorexx\doc\ooRexxTry.pdf
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Programming Guide.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Mathematical Functions Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx TCP-IP Sockets Functions Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx rxFTP Class Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx ooDIalog Method Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Windows Extensions Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Windows Extensions Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexx Windows Extensions Reference.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open Object Rexx\Documentation\ooRexxTry Reference.lnk
