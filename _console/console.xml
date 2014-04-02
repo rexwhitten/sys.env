@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<console title="Console 1.42" change_refresh="10" refresh="100" editor="G:\sys.env\sublime_text\sublime_text.exe">
+   <font>
+      <size>10</size>
+      <bold>false</bold>
+      <italic>false</italic>
+      <name>ter-u20n</name>
+      <colors>
+         <color_00 r="0" g="0" b="0" />            <!-- Black           -->
+         <color_01 r="0" g="0" b="128" />          <!-- Blue            -->
+         <color_02 r="0" g="128" b="0" />          <!-- Green           -->
+         <color_03 r="0" g="128" b="128" />        <!-- Cyan            -->
+         <color_04 r="128" g="0" b="0" />          <!-- Red             -->
+         <color_05 r="128" g="0" b="128" />        <!-- Magenta         -->
+         <color_06 r="128" g="128" b="0" />        <!-- Yellow          -->
+         <color_07 r="192" g="192" b="192" />      <!-- White           -->
+         <color_08 r="128" g="128" b="128" />      <!-- Gray (Br.Black) -->
+         <color_09 r="0" g="0" b="255" />          <!-- Br.Blue         -->
+         <color_10 r="0" g="255" b="0" />          <!-- Br.Green        -->
+         <color_11 r="0" g="255" b="255" />        <!-- Br.Cyan         -->
+         <color_12 r="255" g="0" b="0" />          <!-- Br.Red          -->
+         <color_13 r="255" g="0" b="255" />        <!-- Br.Magenta      -->
+         <color_14 r="255" g="255" b="0" />        <!-- Br. Yellow      -->
+         <color_15 r="255" g="255" b="255" />      <!-- Br. White       -->
+      </colors>
+
+   </font>
+
+   <position>
+      <x>100</x>
+      <y>100</y>
+      <docked>none</docked>             <!-- bottom left, bottom right, -->
+                                        <!-- top left, top              -->
+
+      <snap_distance>-1</snap_distance> <!-- in pixels, -1 to disable   -->
+      <z_order>regular</z_order>        <!-- regular, on top, on bottom -->
+   </position>
+
+   <appearance>
+
+      <hide_console>true</hide_console>
+      <border>none</border>                <!-- none, regular, thin     -->
+      <inside_border>2</inside_border>        <!-- pixel width of border   -->
+                                              <!-- between text and window -->
+                                              <!-- edge - the gutter       -->
+
+      <taskbar_button>normal</taskbar_button> <!-- normal, hide, tray      -->
+
+      <scrollbar>
+        <style>flat</style>                <!-- flat, regular, encarta  -->
+        <color r="0" g="0" b="0" />
+        <width>0</width>
+        <button_height>16</button_height>
+        <thumb_height>128</thumb_height>
+      </scrollbar>
+      <size rows="50" columns="80" buffer_rows="500" />
+      <transparency>alpha</transparency>
+
+      <background>
+         <color r="0" g="0" b="0" />
+         <tint r="0" g="0" b="0" opacity="50" />
+      </background>
+
+      <cursor>
+         <color r="255" g="255" b="255" />
+         <!-- Possible styles: none, XTerm, block, bar, console,       -->
+         <!-- horizontal line, vertical line, pulse rect, fading block -->
+         <style>XTerm</style>
+      </cursor>
+
+   </appearance>
+   <behaviour>
+      <!-- if true, clicking on window will move it, not select region     -->
+      <mouse_drag>true</mouse_drag>
+      <!-- if true, will copy region to clipboard when done selecting      -->
+      <copy_on_select>false</copy_on_select>
+      <!-- for mouse drag, inverses function of shift on mouse-drag ops    -->
+      <inverse_shift>false</inverse_shift>
+      <!-- Console behavior when a new configuration file is selected      -->
+      <!-- from the popup menu; possible values: prompt, yes, no           -->
+      <reload_new_config>prompt</reload_new_config>
+      <!-- if set to true, the popup menu will be disabled                 -->
+      <disable_menu>false</disable_menu>
+   </behaviour>
+</console>

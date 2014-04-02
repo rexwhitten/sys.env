@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <settings>
-	<console change_refresh="10" refresh="100" rows="25" columns="80" buffer_rows="500" buffer_columns="0" shell="" init_dir="" start_hidden="0" save_size="0">
+	<console change_refresh="10" refresh="100" rows="25" columns="120" buffer_rows="500" buffer_columns="0" shell="&quot;C:\Program Files (x86)\Git\bin\sh.exe&quot; --login -i" init_dir="%HOMEDRIVE%%HOMEPATH%" start_hidden="0" save_size="0">
 		<colors>
 			<color id="0" r="0" g="0" b="0"/>
 			<color id="1" r="0" g="0" b="128"/>
-			<color id="2" r="0" g="150" b="0"/>
+			<color id="2" r="128" g="255" b="0"/>
 			<color id="3" r="0" g="150" b="150"/>
 			<color id="4" r="170" g="25" b="25"/>
 			<color id="5" r="128" g="0" b="128"/>
-			<color id="6" r="128" g="128" b="0"/>
+			<color id="6" r="253" g="65" b="38"/>
 			<color id="7" r="192" g="192" b="192"/>
 			<color id="8" r="128" g="128" b="128"/>
-			<color id="9" r="0" g="100" b="255"/>
-			<color id="10" r="0" g="255" b="0"/>
+			<color id="9" r="44" g="119" b="245"/>
+			<color id="10" r="255" g="0" b="128"/>
 			<color id="11" r="0" g="255" b="255"/>
 			<color id="12" r="255" g="50" b="50"/>
 			<color id="13" r="255" g="0" b="255"/>
@@ -21,19 +21,19 @@
 		</colors>
 	</console>
 	<appearance>
-		<font name="Courier New" size="10" bold="0" italic="0" smoothing="0">
+		<font name="ter-u24n" size="11" bold="0" italic="0" smoothing="0">
 			<color use="0" r="0" g="0" b="0"/>
 		</font>
-		<window title="Console" icon="" use_tab_icon="1" use_console_title="0" show_cmd="1" show_cmd_tabs="1" use_tab_title="1" trim_tab_titles="20"/>
-		<controls show_menu="1" show_toolbar="1" show_statusbar="1" show_tabs="1" hide_single_tab="1" show_scrollbars="1" flat_scrollbars="0" />
-		<styles caption="1" resizable="1" taskbar_button="1" border="1" inside_border="2" tray_icon="1">
+		<window title="Console" icon="" use_tab_icon="1" use_console_title="0" show_cmd="1" show_cmd_tabs="1" use_tab_title="1" trim_tab_titles="20" trim_tab_titles_right="0"/>
+		<controls show_menu="0" show_toolbar="0" show_statusbar="0" show_tabs="1" hide_single_tab="1" show_scrollbars="1" flat_scrollbars="0" tabs_on_bottom="0"/>
+		<styles caption="1" resizable="0" taskbar_button="1" border="0" inside_border="2" tray_icon="1">
 			<selection_color r="255" g="255" b="255"/>
 		</styles>
 		<position x="-1" y="-1" dock="-1" snap="0" z_order="0" save_position="0"/>
-		<transparency type="0" active_alpha="255" inactive_alpha="255" r="0" g="0" b="0"/>
+		<transparency type="1" active_alpha="255" inactive_alpha="255" r="0" g="0" b="0"/>
 	</appearance>
 	<behavior>
-		<copy_paste copy_on_select="0" clear_on_copy="1" no_wrap="1" trim_spaces="1" copy_newline_char="0"/>
+		<copy_paste copy_on_select="0" clear_on_copy="1" no_wrap="1" trim_spaces="1" copy_newline_char="0" sensitive_copy="1"/>
 		<scroll page_scroll_rows="0"/>
 		<tab_highlight flashes="3" stay_highligted="1"/>
 	</behavior>
@@ -78,6 +78,7 @@
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpageleft"/>
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpageright"/>
 		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="112" command="dumpbuffer"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="activate"/>
 	</hotkeys>
 	<mouse>
 		<actions>
@@ -89,12 +90,39 @@
 		</actions>
 	</mouse>
 	<tabs>
-		<tab title="Console2">
-			<console shell="" init_dir=""/>
+		<tab title="sys" use_default_icon="0">
+			<console shell="" init_dir="" run_as_user="0" user=""/>
 			<cursor style="0" r="255" g="255" b="255"/>
 			<background type="0" r="0" g="0" b="0">
 				<image file="" relative="0" extend="0" position="0">
-					<tint opacity="153" r="0" g="0" b="0"/>
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="powershell" use_default_icon="0">
+			<console shell="%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe" init_dir="%HOMEDRIVE%%HOMEPATH%" run_as_user="0" user=""/>
+			<cursor style="0" r="0" g="255" b="255"/>
+			<background type="0" r="0" g="0" b="0">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="windows" use_default_icon="0">
+			<console shell="" init_dir="%HOMEDRIVE%%HOMEPATH%" run_as_user="0" user=""/>
+			<cursor style="0" r="255" g="255" b="255"/>
+			<background type="0" r="63" g="68" b="139">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="AzureStorage" icon="%SystemRoot%\Installer\{E7FCA9E4-CDCB-472B-B168-567B16088E89}\icon.ico" use_default_icon="0">
+			<console shell="C:\Windows\SysWOW64\cmd.exe /T:1F /K cd /D &quot;C:\Program Files (x86)\Microsoft SDKs\Windows Azure\&quot; &amp; launchcmd.cmd" init_dir="%HOMEDRIVE%%HOMEPATH%" run_as_user="0" user=""/>
+			<cursor style="11" r="39" g="135" b="214"/>
+			<background type="0" r="0" g="0" b="0">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
 				</image>
 			</background>
 		</tab>
